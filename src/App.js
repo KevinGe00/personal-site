@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
+import NavBar from './components/headerComponent/navBar.js';
+import Jumbotron from './components/jumbotron.js';
+import ParticleComponent from './components/particleComponent.js';
+import AboutCompoment from './components/aboutComponent.js';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{
+      position: "absolute",
+      width: "100%",
+      height: "100%",
+    }}>
+        <ParticleComponent />
+
+        <NavBar />
+        <Jumbotron />
+        <div id="red">
+        <AboutCompoment />
+        </div>
+      
+
     </div>
   );
 }
