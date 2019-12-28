@@ -27,7 +27,15 @@ class NavBar extends Component {
                 
               </li>
               <li class="nav-item">
+              <Link
+                activeClass="active"
+                to="projects"
+                spy={true}
+                smooth={true}
+                duration={500}
+              >
                 <a class="nav-link" href="#">Projects</a>
+                </Link>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Contact</a>
