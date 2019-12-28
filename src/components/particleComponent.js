@@ -5,7 +5,7 @@ import LionSVG from "./svgs/lion.svg"
 import SnakeSVG from "./svgs/snake.svg"
 import WolfSVG from "./svgs/wolf.svg"
 import DiamondSVG from "./svgs/diamond.svg"
-
+import NameSVG from "./svgs/name.svg"
 
 class ParticleComponent extends Component {
     render() {
@@ -26,7 +26,7 @@ class ParticleComponent extends Component {
 	    "fps_limit": 50,
 	    "particles": {
 	        "number": {
-	            "value": 200,
+	            "value": 600,
 	            "density": {
 	                "enable": false
 	            }
@@ -34,7 +34,7 @@ class ParticleComponent extends Component {
 	        "line_linked": {
 	            "enable": true,
 	            "distance": 30,
-	            "opacity": 0.2
+	            "opacity": 0.7
 	        },
 	        "move": {
 	            "speed": 1
@@ -51,12 +51,12 @@ class ParticleComponent extends Component {
 	    },
 	    "polygon": {
 	        "enable": true,
-	        "scale": 0.5,
+	        "scale": 2.2,
 	        "type": "inline",
 	        "move": {
 	            "radius": 3
 	        },
-	        "url": DeerSVG,
+	        "url": NameSVG,
 	        "inline": {
 	            "arrangement": "equidistant"
 	        },
@@ -77,7 +77,7 @@ class ParticleComponent extends Component {
 	        },
 	        "modes": {
 	            "bubble": {
-	                "size": 3,
+	                "size": 6,
 	                "distance": 40
 	            }
 	        }

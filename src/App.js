@@ -4,6 +4,7 @@ import NavBar from './components/headerComponent/navBar.js';
 import Jumbotron from './components/jumbotron.js';
 import ParticleComponent from './components/particleComponent.js';
 import AboutCompoment from './components/aboutComponent.js';
+import ProjectsComponent from './components/projectsComponent.js'
 import './App.css';
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
         <NavBar />
         <Jumbotron />
         <AboutCompoment />
-      
+        <hr></hr>
+        <ProjectsComponent />
     </div>
   );
 }
