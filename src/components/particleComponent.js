@@ -77,7 +77,7 @@ class ParticleComponent extends Component {
 	        },
 	        "modes": {
 	            "bubble": {
-	                "size": 6,
+	                "size": 3,
 	                "distance": 40
 	            }
 	        }

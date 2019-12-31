@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 class AboutComponent extends Component {
     render() {
         return (
-            <div class="jumbotron" id="about">
+            <div class="jumbotron fill-screen-height" id="about">
                 <h1 class="center-text">About me</h1>
                 <p class="lead">I'm currently a second year computer science student at the Univeristy of Toronto.</p>
                 <p>Lorem ipsum dolor sit amet, eam ubique commodo euismod cu, maiorum detraxit id vim, pri hinc temporibus ut. Vis sonet tacimates cu, mea te affert scribentur consectetuer. Stet pertinacia ex est, eam cu esse illud singulis. Mei id maiestatis adversarium, pri brute oporteat democritum ne.

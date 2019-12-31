@@ -21,6 +21,7 @@ class NavBar extends Component {
                 spy={true}
                 smooth={true}
                 duration={500}
+                offset={-70}
               >
                 <a class="nav-link">About <span class="sr-only">(current)</span></a>
               </Link>
@@ -33,12 +34,21 @@ class NavBar extends Component {
                 spy={true}
                 smooth={true}
                 duration={500}
+                offset={-70}
               >
                 <a class="nav-link" href="#">Projects</a>
                 </Link>
               </li>
               <li class="nav-item">
+              <Link
+                activeClass="active"
+                to="footer"
+                spy={true}
+                smooth={true}
+                duration={500}
+              >
                 <a class="nav-link" href="#">Contact</a>
+              </Link>
               </li>
             </ul>
           </div>
