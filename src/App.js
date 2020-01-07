@@ -4,7 +4,7 @@ import NavBar from './components/headerComponent/navBar.js';
 import Jumbotron from './components/jumbotron.js';
 import ParticleComponent from './components/particleComponent.js';
 import AboutCompoment from './components/aboutComponent.js';
-import ProjectsComponent from './components/projectsComponent.js'
+import ProjectsComponent from './components/projectsComponent/projectsComponent.js'
 import Footer from './components/footComponent'
 import './App.css';
 

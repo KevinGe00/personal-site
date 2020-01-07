@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import { Link, animateScroll as scroll } from "react-scroll";
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import resume from './resume.pdf'
 
 class NavBar extends Component {
   render() {
     return (
       <header>
         <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
-          <a class="navbar-brand" href="#">KEVIN GE</a>
+          <a class="navbar-brand" href="#"><strong>KG</strong></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -49,6 +49,10 @@ class NavBar extends Component {
               >
                 <a class="nav-link" href="#">Contact</a>
               </Link>
+              </li>
+              <li class="nav-item">
+   
+                <a class="nav-link" href={resume}>Resume</a>
               </li>
             </ul>
           </div>
