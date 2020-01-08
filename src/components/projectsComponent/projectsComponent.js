@@ -17,8 +17,10 @@ class ProjectsComponent extends Component {
                         <img class="card-img-top" src={SpotifyImage} alt="Card image cap"></img>
                         <div class="card-body">
                             <h5 class="card-title">Spotify Playlist Personalizer</h5>
-                            <p class="card-text">A web app that generates personalized playlists directly onto user’s Spotify using a self-made algorithm
-                            that reads user’s Spotify data to filter through an input playlist.</p>
+                            <p class="card-text">A web app that takes in an input playlists and generates a personalized playlist directly onto the user's Spotify library.
+                            The app filters through the input playlist and filters for songs by artists that the user listens to (data from Spotify's API).
+                            </p>
+                            
                             <a href="https://github.com/KevinGe00/SpotifyPlaylistPersonalizer" class="btn btn-primary">Code on Github <i class="fab fa-github"></i></a>
                         </div>
                     </div>
@@ -26,8 +28,8 @@ class ProjectsComponent extends Component {
                         <img class="card-img-top" src={fmscImage} alt="Card image cap"></img>
                         <div class="card-body">
                             <h5 class="card-title">Find My SmartCar</h5>
-                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <p class="card-text">A web app that helps connected car owners find their car using live location data from Smartcar's API.</p>
+                            <a href="https://github.com/KevinGe00/FindMyWhip" class="btn btn-primary">Code on Github <i class="fab fa-github"></i></a>
                         </div>
                     </div>
 
@@ -38,16 +40,16 @@ class ProjectsComponent extends Component {
                         <img class="card-img-top" src={RobodropperImage} alt="Card image cap"></img>
                         <div class="card-body">
                             <h5 class="card-title">Robot Seed Planter</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <a href="https://www.artsci.utoronto.ca/news/hackathon-science-education-hacking-better-world" class="btn btn-primary">News Article</a>
+                            <p class="card-text">A programmable seed-planting robot built with custom Arduino boards. Winner <i class="fas fa-award"></i> and judge favorite at the Pueblo Science Hackathon for Science Education. </p>
+                            <a href="https://www.artsci.utoronto.ca/news/hackathon-science-education-hacking-better-world" class="btn btn-primary">News Article <i class="fas fa-newspaper"></i></a>
                         </div>
                     </div>
                     <div class="card">
                         <img class="card-img-top" src={DesperadoImage} alt="Card image cap"></img>
                         <div class="card-body">
-                            <h5 class="card-title">Desperado - Android Game</h5>
-                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">Desperado</h5>
+                            <p class="card-text">A multi levelled wild west themed Android game.</p>
+                            <a href="https://github.com/KevinGe00/Desperado-AndroidGame" class="btn btn-primary">Code on Github <i class="fab fa-github"></i></a>
                         </div>
                     </div>
 
