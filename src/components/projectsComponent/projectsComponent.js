@@ -17,8 +17,9 @@ class ProjectsComponent extends Component {
                         <img class="card-img-top" src={SpotifyImage} alt="Card image cap"></img>
                         <div class="card-body">
                             <h5 class="card-title">Spotify Playlist Personalizer</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <a href="https://github.com/KevinGe00/SpotifyPlaylistPersonalizer" class="btn btn-primary">Github <i class="fab fa-github"></i></a>
+                            <p class="card-text">A web app that generates personalized playlists directly onto user’s Spotify using a self-made algorithm
+                            that reads user’s Spotify data to filter through an input playlist.</p>
+                            <a href="https://github.com/KevinGe00/SpotifyPlaylistPersonalizer" class="btn btn-primary">Code on Github <i class="fab fa-github"></i></a>
                         </div>
                     </div>
                     <div class="card">
