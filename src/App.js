@@ -18,12 +18,15 @@ function App() {
       height: "100%",
     }}>
         <ParticleComponent />
-        <NavBar />
+       
         <Jumbotron />
+       <NavBar>
         <AboutCompoment />
         <hr></hr>
         <ProjectsComponent />
+        </NavBar> 
         <hr></hr>
+        
         <Footer />
     </div>
   );
