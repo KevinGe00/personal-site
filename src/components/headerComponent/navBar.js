@@ -21,7 +21,7 @@ class NavBar extends Component {
                 spy={true}
                 smooth={true}
                 duration={500}
-                offset={-70}
+                offset={-50}
               >
                 <a class="nav-link">About <span class="sr-only">(current)</span></a>
               </Link>

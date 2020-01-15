@@ -24,6 +24,7 @@ function App() {
         <AboutCompoment />
         <hr></hr>
         <ProjectsComponent />
+        
         </NavBar> 
         <hr></hr>
         

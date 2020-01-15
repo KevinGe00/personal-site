@@ -10,7 +10,7 @@ class ProjectsComponent extends Component {
 
             <div class="container" id="projects">
 
-                <h1 class="center-text">Projects</h1>
+                <h1 class="center-text font-inherit">PROJECTS</h1>
                 {/* row 1 */}
                 <div class="card-deck">
                     <div class="card">
