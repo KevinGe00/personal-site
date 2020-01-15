@@ -1,10 +1,5 @@
 import React, { Component } from "react";
 import Particles from "react-particles-js";
-import DeerSVG from "./svgs/deer.svg";
-import LionSVG from "./svgs/lion.svg"
-import SnakeSVG from "./svgs/snake.svg"
-import WolfSVG from "./svgs/wolf.svg"
-import DiamondSVG from "./svgs/diamond.svg"
 import NameSVG from "./svgs/name.svg"
 
 class ParticleComponent extends Component {
@@ -23,7 +18,7 @@ class ParticleComponent extends Component {
 >
 <Particles
     params={{
-	    "fps_limit": 50,
+	    "fps_limit": 80,
 	    "particles": {
 	        "number": {
 	            "value": 600,
@@ -46,7 +41,7 @@ class ParticleComponent extends Component {
 	                "speed": 2,
 	                "sync": false
 	            },
-	            "value": 0.6
+	            "value": 3
 	        }
 	    },
 	    "polygon": {
@@ -63,7 +58,7 @@ class ParticleComponent extends Component {
 	        "draw": {
 	            "enable": true,
 	            "stroke": {
-	                "color": "rgba(255, 255, 255, .2)"
+	                "color": "rgba(255, 255, 255, 0)"
 	            }
 	        }
 	    },
