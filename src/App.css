@@ -1,7 +1,7 @@
 body{
-    height: 450vh;
-    background: rgb(167,163,163);
-background: linear-gradient(52deg, rgba(167,163,163,1) 0%, rgba(236,248,255,1) 65%);
+
+    background:	#F5F5F5;
+
 }
 .fill-screen {
     width: 100%;
@@ -20,9 +20,10 @@ background: linear-gradient(52deg, rgba(167,163,163,1) 0%, rgba(236,248,255,1) 6
 }
 .card {
     margin: 4%;
-    background: rgb(167,163,163);
-    background: linear-gradient(52deg, rgba(167,163,163,1) 2%, rgba(236,248,255,1) 100%);
+    background: rgb(192,222,239);
+    background: radial-gradient(circle, rgba(192,222,239,1) 0%, rgba(255,255,255,1) 0%, rgba(170,170,170,1) 97%);
     font-family: 'Roboto', sans-serif;
+    box-shadow: 5px 5px 3px grey;
 }
 .title-margin{
     margin-top: 4%;
@@ -104,12 +105,13 @@ a {
 #about {
 
     color: black;
-    height: 45em;
+    height: 100%;
 }
 #me {
     width:70%;
     height:auto;
     margin-left: 20%;
+    margin-bottom: 7%;
     border-radius: 8px;
     border:1px solid #353434;
 }
