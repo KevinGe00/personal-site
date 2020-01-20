@@ -1,5 +1,5 @@
 body{
-    height: 490vh;
+    height: 450vh;
     background: rgb(167,163,163);
 background: linear-gradient(52deg, rgba(167,163,163,1) 0%, rgba(236,248,255,1) 65%);
 }
@@ -19,10 +19,10 @@ background: linear-gradient(52deg, rgba(167,163,163,1) 0%, rgba(236,248,255,1) 6
     text-align: center;
 }
 .card {
-    margin: 8%;
+    margin: 4%;
     background: rgb(167,163,163);
-background: linear-gradient(52deg, rgba(167,163,163,1) 2%, rgba(236,248,255,1) 100%);
-font-family: 'Roboto', sans-serif;
+    background: linear-gradient(52deg, rgba(167,163,163,1) 2%, rgba(236,248,255,1) 100%);
+    font-family: 'Roboto', sans-serif;
 }
 .title-margin{
     margin-top: 4%;
@@ -111,6 +111,7 @@ a {
     height:auto;
     margin-left: 20%;
     border-radius: 8px;
+    border:1px solid #353434;
 }
 
 /* upper portion of footer */
@@ -129,7 +130,9 @@ a {
 
 #footer-text{
     color:white;
-    
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+    text-shadow: 2px 2px grey;
 }
 /* 
 arrow css */
