@@ -7,7 +7,7 @@ class Footer extends Component {
 
                 <div id="footer-upper">
                     <div class="container">
-                        <h4 class="text-center white">Get in touch with me! ... or just check out my music?</h4>
+                        <h4 class="text-center white">Get in touch with me!</h4>
                         <div class="row justify-content-center" id="footer-upper">
                               {/* email */}
                               <div class="col-1">

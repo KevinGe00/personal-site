@@ -20,25 +20,7 @@ class ProjectsComponent extends Component {
                             <p class="card-text">A web app that takes in an input playlists and generates a personalized playlist directly onto the user's Spotify library.
                             The app filters through the input playlist and filters for songs by artists that the user listens to (data from Spotify's API).
                             </p>
-                            <div class="row">
-                                <div class="col-sm-3">
-                                    <div class="card">
-                                        <div class="techstacklistcard">
-                                        <h5 class="card-title">Python</h5>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="card">
-                                        <div class="techstacklistcard">
-                                            <h5 class="card-title">Javascript</h5>
-                                        
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             <a href="https://github.com/KevinGe00/SpotifyPlaylistPersonalizer" class="btn btn-primary">Code on Github <i class="fab fa-github"></i></a>
                 
                         </div>

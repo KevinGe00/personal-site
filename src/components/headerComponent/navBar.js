@@ -8,7 +8,15 @@ class NavBar extends Component {
     return (
       <header>
         <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
+        <Link
+                activeClass="active"
+                to="jumbotron"
+                spy={true}
+                smooth={true}
+                duration={500}
+              >
           <a class="navbar-brand" href="#"><strong>KG</strong></a>
+          </Link>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -21,7 +29,7 @@ class NavBar extends Component {
                 spy={true}
                 smooth={true}
                 duration={500}
-                offset={-50}
+                offset={-110}
               >
                 <a class="nav-link">About <span class="sr-only">(current)</span></a>
               </Link>
