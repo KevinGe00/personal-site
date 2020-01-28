@@ -26,7 +26,7 @@ class ProjectsComponent extends Component {
                             The app filters through the input playlist and filters for songs by artists that the user listens to (data from Spotify's API).
                             </p>
 
-                            <a href="https://github.com/KevinGe00/SpotifyPlaylistPersonalizer" class="btn btn-dark">Code on Github <i class="fab fa-github"></i></a>
+                            <a href="https://github.com/KevinGe00/SpotifyPlaylistPersonalizer" class="btn btn-dark" target="_ ">Code on Github <i class="fab fa-github"></i></a>
 
                         </div>
                     </div>
@@ -35,7 +35,7 @@ class ProjectsComponent extends Component {
                         <div class="card-body">
                             <h5 class="card-title"><strong>Find My SmartCar</strong></h5>
                             <p class="card-text">A web app that helps connected car owners find their car using live location data from Smartcar's API.</p>
-                            <a href="https://github.com/KevinGe00/FindMyWhip" class="btn btn-dark">Code on Github <i class="fab fa-github"></i></a>
+                            <a href="https://github.com/KevinGe00/FindMyWhip" class="btn btn-dark" target="_ ">Code on Github <i class="fab fa-github"></i></a>
                         </div>
                     </div>
 
@@ -69,7 +69,7 @@ class ProjectsComponent extends Component {
                         <div class="card-body">
                             <h5 class="card-title"><strong>Robot Seed Planter</strong></h5>
                             <p class="card-text">A programmable seed-planting robot built with custom Arduino boards. Winner <i class="fas fa-award"></i> and judge favorite at the Pueblo Science Hackathon for Science Education. </p>
-                            <a href="https://www.artsci.utoronto.ca/news/hackathon-science-education-hacking-better-world" class="btn btn-dark">News Article <i class="fas fa-newspaper"></i></a>
+                            <a href="https://www.artsci.utoronto.ca/news/hackathon-science-education-hacking-better-world" class="btn btn-dark" target="_ ">News Article <i class="fas fa-newspaper"></i></a>
                         </div>
                     </div>
                     <div class="card col-sm-4 p-0 my-auto">
@@ -100,7 +100,7 @@ class ProjectsComponent extends Component {
                         <div class="card-body">
                             <h5 class="card-title"><strong>Desperado</strong></h5>
                             <p class="card-text">A multi levelled wild west themed Android game.</p>
-                            <a href="https://github.com/KevinGe00/Desperado-AndroidGame" class="btn btn-dark">Code on Github <i class="fab fa-github"></i></a>
+                            <a href="https://github.com/KevinGe00/Desperado-AndroidGame" class="btn btn-dark" target="_ ">Code on Github <i class="fab fa-github"></i></a>
                         </div>
                     </div>
 

@@ -60,7 +60,7 @@ class NavBar extends Component {
               </li>
               <li class="nav-item">
    
-                <a class="nav-link" href={resume}>Resume <i class="fas fa-scroll"></i></a>
+                <a class="nav-link" href={resume} target="_ ">Resume <i class="fas fa-scroll"></i></a>
               </li>
             </ul>
           </div>

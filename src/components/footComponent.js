@@ -17,25 +17,25 @@ class Footer extends Component {
                             </div>
                             {/* github */}
                             <div class="col-1">
-                                <a href="https://www.github.com/KevinGe00">
+                                <a href="https://www.github.com/KevinGe00" target="_ ">
                                     <i class="logo fab fa-github fa-2x white"> </i>
                                 </a>
                             </div>
                             {/* linkedin */}
                             <div class="col-1">
-                                <a href="https://www.linkedin.com/in/ge-kevin">
+                                <a href="https://www.linkedin.com/in/ge-kevin" target="_ ">
                                     <i class="logo fab fa-linkedin-in fa-2x white"> </i>
                                 </a>
                             </div>
                              {/* instagram */}
                              <div class="col-1">
-                                <a href="https://www.instagram.com/kevnge">
+                                <a href="https://www.instagram.com/kevnge" target="_ ">
                                     <i class="logo fab fa-instagram fa-2x white"> </i>
                                 </a>
                             </div>
                             {/* spotify */}
                             <div class="col-1">
-                                <a href="https://open.spotify.com/user/citatlon">
+                                <a href="https://open.spotify.com/user/citatlon" target="_ ">
                                     <i class="fab fa-spotify spotify-logo fa-2x white"></i>
                                 </a>
                             </div>
