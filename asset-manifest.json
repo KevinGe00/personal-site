@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b59fce6.chunk.css",
-    "main.js": "/static/js/main.9de22063.chunk.js",
-    "main.js.map": "/static/js/main.9de22063.chunk.js.map",
+    "main.css": "/static/css/main.7d36145c.chunk.css",
+    "main.js": "/static/js/main.c1a7d2bf.chunk.js",
+    "main.js.map": "/static/js/main.c1a7d2bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ad213a2a.js",
     "runtime-main.js.map": "/static/js/runtime-main.ad213a2a.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.d55d4774.chunk.js": "/static/js/2.d55d4774.chunk.js",
-    "static/js/2.d55d4774.chunk.js.map": "/static/js/2.d55d4774.chunk.js.map",
+    "static/js/2.c10f6d57.chunk.js": "/static/js/2.c10f6d57.chunk.js",
+    "static/js/2.c10f6d57.chunk.js.map": "/static/js/2.c10f6d57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.938d98b51f2625ae27bd4eff0679f729.js": "/precache-manifest.938d98b51f2625ae27bd4eff0679f729.js",
+    "precache-manifest.f9eaea4e3ac10e8ecc9f571654be77eb.js": "/precache-manifest.f9eaea4e3ac10e8ecc9f571654be77eb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.3b59fce6.chunk.css.map": "/static/css/main.3b59fce6.chunk.css.map",
-    "static/js/2.d55d4774.chunk.js.LICENSE": "/static/js/2.d55d4774.chunk.js.LICENSE",
+    "static/css/main.7d36145c.chunk.css.map": "/static/css/main.7d36145c.chunk.css.map",
+    "static/js/2.c10f6d57.chunk.js.LICENSE": "/static/js/2.c10f6d57.chunk.js.LICENSE",
     "static/media/1.png": "/static/media/1.9e2f5007.png",
     "static/media/1.jpg": "/static/media/1.e0deeb71.jpg",
     "static/media/2.jpg": "/static/media/2.9b6bbfe0.jpg",
@@ -24,14 +24,14 @@
     "static/media/findmywhip.png": "/static/media/findmywhip.b41cf647.png",
     "static/media/me.JPG": "/static/media/me.ce068c46.JPG",
     "static/media/name.svg": "/static/media/name.240a3e29.svg",
-    "static/media/resume.pdf": "/static/media/resume.d8e47d4c.pdf",
+    "static/media/resume.pdf": "/static/media/resume.f85cdbf6.pdf",
     "static/media/spotify.png": "/static/media/spotify.03683508.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ad213a2a.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.d55d4774.chunk.js",
-    "static/css/main.3b59fce6.chunk.css",
-    "static/js/main.9de22063.chunk.js"
+    "static/js/2.c10f6d57.chunk.js",
+    "static/css/main.7d36145c.chunk.css",
+    "static/js/main.c1a7d2bf.chunk.js"
   ]
 }
