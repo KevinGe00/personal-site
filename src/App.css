@@ -17,6 +17,14 @@ body{
 .center-text {
     text-align: center;
 }
+
+.mobile-name-text{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 7.0em;
+    height: 50px;
+}
+
 .card {
     margin: 4%;
     background: rgb(192,222,239);
@@ -37,7 +45,6 @@ body{
 .white{
     color: white;
 }
-
 
 .white-line {
     border-top: 1px solid grey;

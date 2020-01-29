@@ -17,7 +17,7 @@ class Jumbotron extends Component {
                 to="about"
                 spy={true}
                 smooth={true}
-                duration={500}
+                duration={400}
                 offset={-110}
               >
                     <a>
