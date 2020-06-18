@@ -6,12 +6,8 @@ class ParticleComponent extends Component {
 	render() {
 		return (
 			<div>
-
-
 				<MediaQuery minDeviceWidth={1000}>
-					<div
-
-					>
+					<div>
 						<Particles
 							style={{
 								position: "absolute",
@@ -19,7 +15,7 @@ class ParticleComponent extends Component {
 								left: 0,
 								width: "100%",
 								height: "100%",
-								paddingTop: "50px",
+								paddingTop: "0rem",
 							}}
 							params={{
 								"fps_limit": 80,
@@ -82,9 +78,10 @@ class ParticleComponent extends Component {
 									}
 								}
 							}} />
-
 					</div>
 				</MediaQuery>
+
+				{/* mobile display render */}
 				<MediaQuery maxDeviceWidth={1000}>
 					<div style={{
 						position: "absolute",
@@ -99,8 +96,6 @@ class ParticleComponent extends Component {
 							Ge
 						</h1>
 					</div>
-
-
 				</MediaQuery>
 			</div>
 		)

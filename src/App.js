@@ -9,6 +9,7 @@ import Footer from './components/footComponent'
 import './App.css';
 
 function App() {
+
   return (
     <div style={{
       position: "absolute",

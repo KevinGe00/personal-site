@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Link, animateScroll as scroll } from "react-scroll";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import resume from './resume.pdf'
 
 class NavBar extends Component {
   render() {
@@ -60,7 +59,7 @@ class NavBar extends Component {
               </li>
               <li class="nav-item">
    
-                <a class="nav-link" href={resume} target="_ ">Resume <i class="fas fa-scroll"></i></a>
+                <a class="nav-link" href='https://drive.google.com/file/d/1HbDSBylmFsUSFT0LFgke2JZyKsaF9M0E/view?usp=sharing' target="_ ">Resume <i class="fas fa-scroll"></i></a>
               </li>
             </ul>
           </div>

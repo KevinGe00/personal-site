@@ -12,21 +12,20 @@ class Jumbotron extends Component {
                 <div id="stars3"></div>
 
                 <div class="arrow-container">
-                <Link
-                activeClass="active"
-                to="about"
-                spy={true}
-                smooth={true}
-                duration={400}
-                offset={-110}
-              >
-                    <a>
-                     
-                        <div class="arrow"></div>
-                    </a>
+                    <Link
+                        activeClass="active"
+                        to="about"
+                        spy={true}
+                        smooth={true}
+                        duration={400}
+                        offset={-110}
+                    >
+                        <a>
+                            <div class="arrow"></div>
+                        </a>
                     </Link>
                 </div>
-           
+
             </div>
         )
     }

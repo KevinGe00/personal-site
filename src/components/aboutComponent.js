@@ -11,9 +11,10 @@ class AboutComponent extends Component {
                     <div class="col-sm-6">
                         <p id="about-text"><strong>Nice to meet you 👋, I'm Kevin!</strong>
                             <hr></hr>
-                            I'm currently a second year computer science student at the University of Toronto.
-                            When I'm not spending time on school, I'll be with friends, working out or spending time
-                            curating my <a href="https://open.spotify.com/user/citatlon">Spotify playlists</a>. I built 
+                            I'm about to enter my third year as a computer science student at the University of Toronto. This summer, I'm interning as a full stack developer at <a href="https://www.fortrantraffic.com/products/its-network-solutions/" target="_ ">Fortran Traffic Systems</a>;
+                            writing code for their intelligent transportation systems.
+                            When I'm not spending time on school or work, I'll be with friends, working out or spending time
+                            curating my <a href="https://open.spotify.com/user/citatlon" target="_ ">Spotify playlists</a>. I built 
                             this website (in React<i class="fab fa-react"></i>) as a way for people to get to know me better and to find out what I've done. So please, feel free 
                             to check out my projects below.
                         </p>
