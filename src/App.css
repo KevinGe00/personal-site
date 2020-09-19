@@ -64,7 +64,7 @@ body {
     margin-right: 1em;
 }
 
-.company-logo:hover, .company-name:hover {
+.company-logo:hover, .company-name:hover, .custom-accordion:hover {
     cursor: pointer;
     color: #505050;
 }
