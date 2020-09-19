@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Particles from "react-particles-js";
 import NameSVG from "./svgs/name.svg"
 import MediaQuery from "react-responsive";
+
 class ParticleComponent extends Component {
 	render() {
 		return (

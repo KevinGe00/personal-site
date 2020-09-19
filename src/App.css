@@ -37,13 +37,13 @@ body {
 .accordion-card {
     margin-bottom: 3em;
     border-radius: 6px;
+    border: 2px solid rgba(0,0,0,.125);
     transition: box-shadow .3s;
 }
 
 .custom-accordion {
-    width: 26em;
+    width: 80%;
     margin: auto;
-    z-index: 0;
 }
 
 .experience-card {

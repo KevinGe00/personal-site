@@ -2,11 +2,9 @@ import React, { Component } from 'react';
 import PinchLogo from './companyLogos/pinch.ico'
 import FortranLogo from './companyLogos/fortran.ico'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Button, Accordion, Card } from 'react-bootstrap';
-import experienceCard from './experienceCard'
+import { Accordion, Card } from 'react-bootstrap';
 import '/Users/kevinge/Desktop/SIDEPROJECTS/personal-site/node_modules/aos/dist/aos.css';
 import AOS from 'aos';
-import { AnimationWrapper } from 'react-hover-animation'
 import ExperienceCard from './experienceCard';
 
 class ExperienceComponent extends Component {
