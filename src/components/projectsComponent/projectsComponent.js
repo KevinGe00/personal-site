@@ -18,7 +18,7 @@ class ProjectsComponent extends Component {
                 <h1 class="center-text font-inherit title-margin">Projects</h1>
                 {/* row 1 */}
                 <div class="card-deck">
-                    <div class="card p-0 my-auto">
+                    <div class="card project-card p-0 my-auto">
                         <img class="card-img-top" src={SpotifyImage} alt="Card image cap"></img>
                         <div class="card-body">
                             <h5 class="card-title"><strong>Spotify Playlist Personalizer</strong></h5>
@@ -30,7 +30,7 @@ class ProjectsComponent extends Component {
 
                         </div>
                     </div>
-                    <div class="card p-0 my-auto">
+                    <div class="card project-card p-0 my-auto">
                         <img class="card-img-top" src={fmscImage} alt="Card image cap"></img>
                         <div class="card-body">
                             <h5 class="card-title"><strong>Find My SmartCar</strong></h5>
@@ -42,7 +42,7 @@ class ProjectsComponent extends Component {
                 </div>
                 {/* row 2 */}
                 <div class="row">
-                    <div class="card col-sm-6 p-0 my-auto">
+                    <div class="card project-card col-sm-6 p-0 my-auto">
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
@@ -72,7 +72,7 @@ class ProjectsComponent extends Component {
                             <a href="https://www.artsci.utoronto.ca/news/hackathon-science-education-hacking-better-world" class="btn btn-dark" target="_ ">News Article <i class="fas fa-newspaper"></i></a>
                         </div>
                     </div>
-                    <div class="card col-sm-4 p-0 my-auto">
+                    <div class="card project-card col-sm-4 p-0 my-auto">
                         <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">

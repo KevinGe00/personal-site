@@ -5,6 +5,7 @@ import Jumbotron from './components/jumbotron.js';
 import ParticleComponent from './components/particleComponent.js';
 import AboutCompoment from './components/aboutComponent.js';
 import ProjectsComponent from './components/projectsComponent/projectsComponent.js'
+import ExperienceComponent from './components/experienceComponent/experienceComponent.js'
 import Footer from './components/footComponent'
 import './App.css';
 
@@ -19,10 +20,12 @@ function App() {
       height: "100%",
     }}>
         <ParticleComponent />
-       
         <Jumbotron />
-       <NavBar>
+        <NavBar>
+          
         <AboutCompoment />
+        <hr></hr>
+        <ExperienceComponent />
         <hr></hr>
         <ProjectsComponent />
         
