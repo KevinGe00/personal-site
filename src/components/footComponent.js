@@ -43,7 +43,7 @@ class Footer extends Component {
                     </div>
                 </div>
                 <hr class="white-line"></hr>
-                <div class="text-center grey-italic-text" id="footer-bottom">Made By Kevin Ge © 2019
+                <div class="text-center grey-italic-text" id="footer-bottom">Made By Kevin Ge © 2019 (super important copyright note)
           </div>
 
 
