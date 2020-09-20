@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c21bae9.chunk.css",
-    "main.js": "/static/js/main.28423153.chunk.js",
-    "main.js.map": "/static/js/main.28423153.chunk.js.map",
+    "main.css": "/static/css/main.d3f61418.chunk.css",
+    "main.js": "/static/js/main.cfea8e39.chunk.js",
+    "main.js.map": "/static/js/main.cfea8e39.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ad213a2a.js",
     "runtime-main.js.map": "/static/js/runtime-main.ad213a2a.js.map",
-    "static/css/2.9ff99f11.chunk.css": "/static/css/2.9ff99f11.chunk.css",
-    "static/js/2.374d2ca8.chunk.js": "/static/js/2.374d2ca8.chunk.js",
-    "static/js/2.374d2ca8.chunk.js.map": "/static/js/2.374d2ca8.chunk.js.map",
+    "static/css/2.3548fcdc.chunk.css": "/static/css/2.3548fcdc.chunk.css",
+    "static/js/2.e146a817.chunk.js": "/static/js/2.e146a817.chunk.js",
+    "static/js/2.e146a817.chunk.js.map": "/static/js/2.e146a817.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.80d116f539b1c3b986f1882b427b2f75.js": "/precache-manifest.80d116f539b1c3b986f1882b427b2f75.js",
+    "precache-manifest.694726c170633b57668d3538d437f902.js": "/precache-manifest.694726c170633b57668d3538d437f902.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.9ff99f11.chunk.css.map": "/static/css/2.9ff99f11.chunk.css.map",
-    "static/css/main.2c21bae9.chunk.css.map": "/static/css/main.2c21bae9.chunk.css.map",
-    "static/js/2.374d2ca8.chunk.js.LICENSE": "/static/js/2.374d2ca8.chunk.js.LICENSE",
+    "static/css/2.3548fcdc.chunk.css.map": "/static/css/2.3548fcdc.chunk.css.map",
+    "static/css/main.d3f61418.chunk.css.map": "/static/css/main.d3f61418.chunk.css.map",
+    "static/js/2.e146a817.chunk.js.LICENSE": "/static/js/2.e146a817.chunk.js.LICENSE",
     "static/media/1.png": "/static/media/1.9e2f5007.png",
     "static/media/1.jpg": "/static/media/1.e0deeb71.jpg",
     "static/media/2.jpg": "/static/media/2.9b6bbfe0.jpg",
@@ -22,15 +22,17 @@
     "static/media/4.jpg": "/static/media/4.5be3cdd0.jpg",
     "static/media/4.png": "/static/media/4.a4555fbc.png",
     "static/media/findmywhip.png": "/static/media/findmywhip.b41cf647.png",
+    "static/media/fortran.ico": "/static/media/fortran.1f48bc12.ico",
     "static/media/me.JPG": "/static/media/me.ce068c46.JPG",
     "static/media/name.svg": "/static/media/name.240a3e29.svg",
+    "static/media/pinch.ico": "/static/media/pinch.7fa6e212.ico",
     "static/media/spotify.png": "/static/media/spotify.03683508.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ad213a2a.js",
-    "static/css/2.9ff99f11.chunk.css",
-    "static/js/2.374d2ca8.chunk.js",
-    "static/css/main.2c21bae9.chunk.css",
-    "static/js/main.28423153.chunk.js"
+    "static/css/2.3548fcdc.chunk.css",
+    "static/js/2.e146a817.chunk.js",
+    "static/css/main.d3f61418.chunk.css",
+    "static/js/main.cfea8e39.chunk.js"
   ]
 }
