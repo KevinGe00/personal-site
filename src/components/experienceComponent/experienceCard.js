@@ -25,8 +25,8 @@ class ExperienceCard extends Component {
                     <a href={company.website} target="_blank">
                         <h3 class="company-name">{company.name}</h3>
                     </a>
-                    <h6 style={{ color: "#2b2b2b" }}>{company.position}</h6>
-                    <h6 style={{ color: "#505050" }}>{company.date}</h6>
+                    <h6>{company.position}</h6>
+                    <h6>{company.date}</h6>
                 </div>
                 <i class="fas fa-angle-double-down" style={{ marginLeft: "auto" }}></i>
             </div>

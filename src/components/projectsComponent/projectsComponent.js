@@ -21,7 +21,7 @@ class ProjectsComponent extends Component {
                     <div class="card project-card p-0 my-auto">
                         <img class="card-img-top" src={SpotifyImage} alt="Card image cap"></img>
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Spotify Playlist Personalizer</strong></h5>
+                            <h5 class="card-title white"><strong>Spotify Playlist Personalizer</strong></h5>
                             <p class="card-text">A web app that takes in an input playlists and generates a personalized playlist directly onto the user's Spotify library.
                             The app filters through the input playlist and filters for songs by artists that the user listens to (data from Spotify's API).
                             </p>
@@ -33,7 +33,7 @@ class ProjectsComponent extends Component {
                     <div class="card project-card p-0 my-auto">
                         <img class="card-img-top" src={fmscImage} alt="Card image cap"></img>
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Find My SmartCar</strong></h5>
+                            <h5 class="card-title white"><strong>Find My SmartCar</strong></h5>
                             <p class="card-text">A web app that helps connected car owners find their car using live location data from Smartcar's API.</p>
                             <a href="https://github.com/KevinGe00/FindMyWhip" class="btn btn-dark" target="_ ">Code on Github <i class="fab fa-github"></i></a>
                         </div>
@@ -67,7 +67,7 @@ class ProjectsComponent extends Component {
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Robot Seed Planter</strong></h5>
+                            <h5 class="card-title white"><strong>Robot Seed Planter</strong></h5>
                             <p class="card-text">A programmable seed-planting robot built with custom Arduino boards. Winner <i class="fas fa-award"></i> and judge favorite at the Pueblo Science Hackathon for Science Education. </p>
                             <a href="https://www.artsci.utoronto.ca/news/hackathon-science-education-hacking-better-world" class="btn btn-dark" target="_ ">News Article <i class="fas fa-newspaper"></i></a>
                         </div>
@@ -98,7 +98,7 @@ class ProjectsComponent extends Component {
                             </a>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Desperado</strong></h5>
+                            <h5 class="card-title white"><strong>Desperado</strong></h5>
                             <p class="card-text">A multi levelled wild west themed Android game.</p>
                             <a href="https://github.com/KevinGe00/Desperado-AndroidGame" class="btn btn-dark" target="_ ">Code on Github <i class="fab fa-github"></i></a>
                         </div>

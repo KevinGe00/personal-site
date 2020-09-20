@@ -1,5 +1,5 @@
 body {
-    background: #F5F5F5;
+    background: #212734;
 }
 
 .fill-screen {
@@ -15,11 +15,12 @@ body {
 }
 
 .about-link {
-    color: #808080;
+    color: darkgray;
 }
 
 .center-text {
     text-align: center;
+    color: white;
 }
 
 .mobile-name-text {
@@ -29,21 +30,29 @@ body {
     height: 50px;
 }
 
+.orange-gradient {
+    background: rgb(245,75,100);
+    background: linear-gradient(52deg, rgba(245,75,100,1) 1%, rgba(247,131,97,1) 78%);
+}
 /* Experience Section */
 .experience-section {
-    height: 70vh;
+    height: 80vh;
 }
 
 .accordion-card {
     margin-bottom: 3em;
-    border-radius: 6px;
-    border: 2px solid rgba(0,0,0,.125);
+    border-radius: 15px;
     transition: box-shadow .3s;
+}
+
+.card-header:first-child {
+    border-radius: 15px;
 }
 
 .custom-accordion {
     width: 80%;
     margin: auto;
+    border-radius: 15px;
 }
 
 .experience-card {
@@ -51,10 +60,11 @@ body {
     flex-direction: row;
     justify-content: start;
     align-items: center;
-
+    color: white;
 }
 
 .company-name {
+    color: white;
     font-size: 1.3em;
     font-weight: bold;
 }
@@ -73,14 +83,18 @@ body {
     display: block;
     position: relative;
     margin: 4%;
-    background: rgb(192, 222, 239);
-    background: radial-gradient(circle, rgba(192, 222, 239, 1) 0%, rgba(255, 255, 255, 1) 0%, rgba(170, 170, 170, 1) 97%);
+    background: rgb(245,75,100);
+    background: linear-gradient(52deg, rgba(245,75,100,1) 1%, rgba(247,131,97,1) 78%);
+    color: #4E586E;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     z-index: 0;
     overflow: hidden;
-    border: 1px solid #f2f8f9;
     transition: box-shadow .3s;
+}
+
+.card-text {
+    color: white;
 }
 
 .project-card:hover, .accordion-card:hover {
@@ -155,11 +169,11 @@ body {
     font-style: inherit;
     font-size: 3em;
     font-weight: bold;
-    color: #353434;
+    color: white;
 }
 
 #about-text {
-    color: #353434;
+    color: white;
     font-size: 1.3em;
     margin-top: 30%;
 }
@@ -189,7 +203,7 @@ a {
     margin-left: 20%;
     margin-bottom: 7%;
     border-radius: 8px;
-    border: 1px solid #353434;
+    border: 1px solid white;
 }
 
 
