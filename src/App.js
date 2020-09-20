@@ -22,16 +22,10 @@ function App() {
         <ParticleComponent />
         <Jumbotron />
         <NavBar>
-          
-        <AboutCompoment />
-        <hr></hr>
-        <ExperienceComponent />
-        <hr></hr>
-        <ProjectsComponent />
-        
+          <AboutCompoment />
+          <ExperienceComponent />
+          <ProjectsComponent />
         </NavBar> 
-        <hr></hr>
-        
         <Footer />
     </div>
   );
